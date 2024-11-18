@@ -21,5 +21,6 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">/Users/brunoleao/.nuget/packages/xunit.analyzers/1.16.0</Pkgxunit_analyzers>
+    <PkgBoDi Condition=" '$(PkgBoDi)' == '' ">/Users/brunoleao/.nuget/packages/bodi/1.5.0</PkgBoDi>
   </PropertyGroup>
 </Project>
